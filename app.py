@@ -1,7 +1,7 @@
 from chalice import Chalice
 import requests
 
-app = Chalice(app_name='abc')
+app = Chalice(app_name='calculator')
 
 # Rough firebase operation:
 
